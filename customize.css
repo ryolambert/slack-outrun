@@ -1,13 +1,13 @@
 .client_container {
-	background: #000E0F;
-	color: #c5c8c6;
+	background: #000000;
+	color: #BABABA;
 }
 
 .client_container h1,
 .client_container h2,
 .client_container h3,
 .client_container h4 {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .client_container a {
@@ -16,8 +16,8 @@
 
 /*--primary: #34EAF5;*/
 /*--text: # ffffff;*/
-/*--background: #000E0F;*/
-/*--background - elevated: #002629;*/
+/*--background: #000000;*/
+/*--background - elevated: #080808;*/
 
 .client_container a:link,
 .client_container a:visited {
@@ -45,28 +45,28 @@
 .client_container input[type=color],
 .client_container input[type=search],
 .client_container textarea {
-	background-color: #002629;
+	background-color: #080808;
 }
 
 .client_container code {
 	color: #34EAF5;
 	background-color: #282a2e;
-	border: 1px solid #002629;
+	border: 1px solid #080808;
 }
 
 .client_container pre {
-	color: #c5c8c6;
+	color: #BABABA;
 	background: #282a2e;
 }
 
 .client_channels_list_container {
-	background: #000E0F;
+	background: #000000;
 }
 
 .messages_header,
 .channel_header_icon,
 .channel_title .channel_name {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #team_menu,
@@ -75,7 +75,7 @@
 body:not(.loading) #team_menu:hover,
 body:not(.loading) #team_menu.active {
 	background: #3C3C3C;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #team_menu {
@@ -91,16 +91,16 @@ body:not(.loading) #team_menu.active {
 #team_menu .notifications_menu_btn,
 #team_menu .team_name_caret,
 #team_menu_user_name {
-	color: #c5c8c6 !important;
+	color: #BABABA !important;
 }
 
 .c-input_select {
-	background: #002629;
+	background: #080808;
 }
 
 .p-message_pane__foreword__description,
 .p-message_pane__limited_history_alert {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .p-message_pane .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider {
@@ -109,7 +109,7 @@ body:not(.loading) #team_menu.active {
 
 .channel_header {
 	background: #3C3C3C;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-message_list__day_divider__label__pill {
@@ -117,7 +117,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message_list__day_divider__label {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-message_list__day_divider__line {
@@ -125,7 +125,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .presence {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .presence.active {
@@ -149,22 +149,22 @@ body:not(.loading) #team_menu.active {
 
 .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list:not(.c-virtual_list--scrollbar):before,
 .p-message_pane .p-message_pane__top_banners:not(:empty)+div .c-message_list.c-virtual_list--scrollbar>.c-scrollbar__hider:before {
-	box-shadow: 0 32px #000E0F;
-	border-bottom: #000E0F;
+	box-shadow: 0 32px #000000;
+	border-bottom: #000000;
 }
 
 .search_form,
 .ql-container.texty_single_line_input {
 	background: #282a2e;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .ql-placeholder {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #edit_topic_inner:not(.unable_to_post):before {
-	background: #002629;
+	background: #080808;
 	border: 1px solid #282a2e;
 }
 
@@ -178,7 +178,7 @@ body:not(.loading) #team_menu.active {
 }
 
 .channel_header_info button {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .channel_header .blue_on_hover:hover {
@@ -188,7 +188,7 @@ body:not(.loading) #team_menu.active {
 .c-message__body,
 .c-message_attachment__footer,
 .c-message:hover .c-message__file_meta {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-message_attachment,
@@ -209,11 +209,11 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message:hover .c-message_attachment__border {
-	background: #000E0F;
+	background: #000000;
 }
 
 .c-message_attachment__border {
-	background: #002629;
+	background: #080808;
 }
 
 .c-message:hover:not(.c-message--highlight):not(.c-message--standalone):not(.c-message--pinned):not(.c-message--ephemeral):not(.c-message--custom_response):not(.c-message--starred):not(.c-message--sli_highlight),
@@ -229,7 +229,7 @@ body:not(.loading) #team_menu.active {
 .c-message--hover .c-message__broadcast_preamble_outer .c-message--focus .c-message__broadcast_preamble,
 .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble_outer,
 .c-message--hover .c-message__broadcast_preamble .c-message--focus .c-message__broadcast_preamble {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .client_container .c-member_slug--link {
@@ -264,20 +264,20 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message_list__unread_divider__label {
-	color: #000E0F;
+	color: #000000;
 	background: #34EAF5;
 }
 
 .c-member__display-name--large,
 .c-member__title--large {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-mrkdwn__member--link,
 .c-mrkdwn__subteam--link,
 .client_container .c-message a.c-mrkdwn__member--link,
 .client_container .c-message a.c-mrkdwn__subteam--link {
-	background: #002629;
+	background: #080808;
 	color: #37bd08;
 }
 
@@ -294,7 +294,7 @@ body:not(.loading) #team_menu.active {
 .client_container .c-message a.c-mrkdwn__subteam--link.active,
 .client_container .c-message a.c-mrkdwn__subteam--link:focus {
 	background: #37bd08;
-	color: #000E0F;
+	color: #000000;
 }
 
 .p-message_pane__foreword__description .c-mrkdwn__member--link,
@@ -309,14 +309,14 @@ body:not(.loading) #team_menu.active {
 .p-message_pane__foreword__description .c-mrkdwn__subteam--link.active,
 .p-message_pane__foreword__description .c-mrkdwn__subteam--link:focus {
 	background: #37bd08 !important;
-	color: #000E0F !important;
+	color: #000000 !important;
 }
 
 .client_container .c-reaction,
 .client_container .c-reaction_add {
-	background: #002629;
+	background: #080808;
 	border: 1px solid #000000;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .client_container .c-reaction:hover,
@@ -328,7 +328,7 @@ body:not(.loading) #team_menu.active {
 
 .client_container .c-reaction__count,
 .client_container .c-reaction_add__icon {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .client_container .c-reaction--reacted .c-reaction__count {
@@ -336,29 +336,29 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message--ephemeral {
-	background: #000E0F;
+	background: #000000;
 }
 
 .c-message__reply_bar:hover,
 .c-message__reply_bar--focus {
-	background-color: #000E0F;
+	background-color: #000000;
 }
 
 .c-message__reply_bar:hover .c-message__reply_bar_view_thread,
 .c-message__reply_bar:hover .c-message__reply_bar_view_thread,
 .c-message__reply_bar--focus .c-message__reply_bar_view_thread,
 .c-message__reply_bar--focus .c-message__reply_bar_view_thread {
-	background-color: #000E0F;
+	background-color: #000000;
 }
 
 .c-message__reply_bar_description,
 .c-message__reply_bar:hover .c-message__reply_bar_arrow,
 .c-message__reply_bar--focus .c-message__reply_bar_arrow {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .supports_custom_scrollbar:not(.slim_scrollbar) #messages_container:after {
-	background: #000E0F;
+	background: #000000;
 }
 
 #footer {
@@ -370,17 +370,17 @@ body:not(.loading) #team_menu.active {
 }
 
 #msg_input {
-	background: #000E0F;
-	color: #c5c8c6;
+	background: #000000;
+	color: #BABABA;
 }
 
 .texty_legacy .ql-placeholder {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #primary_file_button {
-	background: #000E0F;
-	color: #c5c8c6;
+	background: #000000;
+	color: #BABABA;
 }
 
 #primary_file_button.active,
@@ -419,12 +419,12 @@ body:not(.loading) #team_menu.active {
 }
 
 #client_body:not(.onboarding):before {
-	background: #000E0F;
+	background: #000000;
 }
 
 .p-channel_sidebar {
 	background: #252526 !important;
-	color: #c5c8c6 !important;
+	color: #BABABA !important;
 }
 
 .p-channel_sidebar__channel--selected .p-channel_sidebar__name {
@@ -439,7 +439,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__link:visited,
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover {
-	color: #c5c8c6 !important;
+	color: #BABABA !important;
 }
 
 .p-channel_sidebar__channel--selected,
@@ -471,7 +471,7 @@ body:not(.loading) #team_menu.active {
 .p-channel_sidebar__channel:hover,
 .p-channel_sidebar__link:hover,
 .p-channel_sidebar__close_container:hover {
-	background: #002629 !important;
+	background: #080808 !important;
 }
 
 .p-channel_sidebar__channel--unread:not(.p-channel_sidebar__channel--muted):not(.p-channel_sidebar__channel--selected) .p-channel_sidebar__name,
@@ -515,20 +515,20 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-snippet__code .CodeMirror {
-	color: #c5c8c6;
+	color: #BABABA;
 	background: #282a2e;
 }
 
 .c-snippet__code .CodeMirror-code>div:before {
 	background: #282a2e;
-	color: #c5c8c6;
+	color: #BABABA;
 	border-right: 1px solid black;
 }
 
 .c-file_container--gradient::after {
-	background: -moz-linear-gradient(top, rgba(29, 31, 33, 0) 0%, #000E0F 100%);
-	background: -webkit-linear-gradient(top, rgba(29, 31, 33, 0) 0%, #000E0F 100%);
-	background: linear-gradient(to bottom, rgba(29, 31, 33, 0) 0%, #000E0F 100%);
+	background: -moz-linear-gradient(top, rgba(29, 31, 33, 0) 0%, #000000 100%);
+	background: -webkit-linear-gradient(top, rgba(29, 31, 33, 0) 0%, #000000 100%);
+	background: linear-gradient(to bottom, rgba(29, 31, 33, 0) 0%, #000000 100%);
 }
 
 .cm-s-default .cm-def {
@@ -552,16 +552,16 @@ body:not(.loading) #team_menu.active {
 }
 
 .c-message__call_attachment {
-	background: #000E0F;
-	border: 1px solid #002629;
+	background: #000000;
+	border: 1px solid #080808;
 }
 
 .c-message__call_attachment .c-message__call_icon {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-message__call_info {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .c-message__call_sub {
@@ -571,19 +571,19 @@ body:not(.loading) #team_menu.active {
 #snippet_prompt,
 #special_formatting_text,
 #typing_text {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #threads_msgs_scroller_div,
 ts-thread .thread_messages,
 .reply_input_container .ql-container,
 ts-thread {
-	background: #000E0F;
-	color: #c5c8c6;
+	background: #000000;
+	color: #BABABA;
 }
 
 ts-message {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 ts-thread .thread_messages {
@@ -599,7 +599,7 @@ ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.n
 ts-message.active:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) .msg_inline_attachment_column.column_border,
 ts-message.message--focus:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) .msg_inline_attachment_column.column_border,
 ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.new_reply) .msg_inline_attachment_column.column_border {
-	background: #000E0F;
+	background: #000000;
 }
 
 .reply_input_container .ql-container {
@@ -612,7 +612,7 @@ ts-message:hover:not(.standalone):not(.multi_delete_mode):not(.highlight):not(.n
 }
 
 .msg_inline_attachment_column.column_border {
-	background: #002629;
+	background: #080808;
 }
 
 #threads_msgs a {
@@ -645,17 +645,17 @@ ts-thread .thread_header .thread_channel_name a:hover {
 #file_reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container,
 #reply_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container,
 .reply_input_container .reply_container_info .reply_broadcast_buttons_container .reply_broadcast_label_container {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #convo_tab .thread_participants,
 ts-thread .thread_participants {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #threads_msgs_scroller_div .threads_caught_up_divider .divider_label {
 	background: #282a2e;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 #threads_msgs_scroller_div .threads_caught_up_divider .divider_line {
@@ -663,9 +663,9 @@ ts-thread .thread_participants {
 }
 
 .rxn {
-	background: #002629;
+	background: #080808;
 	border: 1px solid #000000;
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .rxn:hover,
@@ -674,11 +674,11 @@ ts-thread .thread_participants {
 }
 
 .rxn .emoji_rxn_count {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 .unread_empty_state {
-	color: #c5c8c6;
+	color: #BABABA;
 }
 
 /*# sourceMappingURL=custom.css.map */
